@@ -1,4 +1,4 @@
-# README_nawqa
+# README-nawqa
 ###NAWQA build
 
 
